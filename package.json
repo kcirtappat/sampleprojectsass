@@ -1,0 +1,14 @@
+{
+  "name": "sampleprojectjs",
+  "version": "1.0.0",
+  "description": "This is a sample project for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pj",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
